@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b35bef4-7587-4aad-821e-d916fb92fcdc" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sprite.svg" afterPath="$PROJECT_DIR$/images/sprite.svg" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,21 +29,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sprite.svg" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sprite.svg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/images/sprite.svg">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="0" column="1802" lean-forward="false" selection-start-line="0" selection-start-column="1802" selection-end-line="0" selection-end-column="1802" />
+            <state relative-caret-position="153">
+              <caret line="0" column="5895" lean-forward="false" selection-start-line="0" selection-start-column="5895" selection-end-line="0" selection-end-column="5895" />
               <folding />
             </state>
           </provider>
@@ -54,6 +56,8 @@
       <find>request.send</find>
       <find>insertAdjacentHTML</find>
       <find>.promo-block</find>
+      <find>.gg</find>
+      <find>.dd</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -63,8 +67,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/images/sprite.svg" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
@@ -170,12 +174,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1501768463637</updated>
-      <workItem from="1501768473983" duration="1518000" />
+      <workItem from="1501768473983" duration="2129000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1518000" />
+    <option name="totallyTimeSpent" value="2129000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -219,18 +223,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/images/sprite.svg">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="0" column="1802" lean-forward="false" selection-start-line="0" selection-start-column="1802" selection-end-line="0" selection-end-column="1802" />
+        <state relative-caret-position="0">
+          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/sprite.svg">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="153">
+          <caret line="0" column="5895" lean-forward="false" selection-start-line="0" selection-start-column="5895" selection-end-line="0" selection-end-column="5895" />
           <folding />
         </state>
       </provider>
