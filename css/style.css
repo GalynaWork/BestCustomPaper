@@ -1622,6 +1622,8 @@ h5.subtitle {
     .account-btn .icon_user {
         display: flex;
         display: -webkit-flex;
+        align-items: center;
+        -webkit-align-items: center;
     }
 
     nav {
