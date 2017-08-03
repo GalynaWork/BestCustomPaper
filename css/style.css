@@ -1494,6 +1494,8 @@ h5.subtitle {
     -webkit-justify-content: center;
 }
 _::-webkit-:not(:root:root), .account-btn .icon_user{margin-left: 5px;margin-right: 10px}
+@media not all and (min-resolution:.001dpcm) {
+    @supports (-webkit-appearance:none){.account-btn .icon_user{margin-left: 5px;margin-right: 10px}}}
 @media (max-width: 1350px) {
     .swiper-container {
         margin-right: 100px;
@@ -1510,6 +1512,8 @@ _::-webkit-:not(:root:root), .account-btn .icon_user{margin-left: 5px;margin-rig
 }
 
 @media (max-width: 1199px) {
+    @media not all and (min-resolution:.001dpcm) {
+        @supports (-webkit-appearance:none) {.account-btn .icon_user{margin-left: 0px;margin-right: 0px}}}
     _::-webkit-:not(:root:root), .account-btn .icon_user{margin-left: 0px;margin-right: 0px}
     .container.choose-us {
         padding-left: 15px;
