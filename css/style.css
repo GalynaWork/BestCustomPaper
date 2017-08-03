@@ -1493,7 +1493,7 @@ h5.subtitle {
     justify-content: center;
     -webkit-justify-content: center;
 }
-
+_::-webkit-:not(:root:root), .account-btn .icon_user{margin-left: 5px;margin-right: 10px}
 @media (max-width: 1350px) {
     .swiper-container {
         margin-right: 100px;
@@ -1510,6 +1510,7 @@ h5.subtitle {
 }
 
 @media (max-width: 1199px) {
+    _::-webkit-:not(:root:root), .account-btn .icon_user{margin-left: 0px;margin-right: 0px}
     .container.choose-us {
         padding-left: 15px;
         padding-right: 15px
